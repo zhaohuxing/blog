@@ -1,8 +1,8 @@
 language: go
 go:
-  - "1.10"
+  - "1.11"
 install:
-  - curl -L https://github.com/gohugoio/hugo/releases/download/v0.49/hugo_0.49_Linux-64bit.tar.gz -o hugo.tar.gz
+  - curl -L https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz -o hugo.tar.gz
   - tar -xvf hugo.tar.gz
 script:
   - ./hugo --minify
