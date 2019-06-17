@@ -1,7 +1,7 @@
 ---
 title: CentOS 软件管理机制
 date: 2019-06-17T13:21:55+08:00
-draft: true
+draft: false
 tags: ["Linux", "CentOS"]
 ---
 
