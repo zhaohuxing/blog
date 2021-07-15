@@ -1,5 +1,5 @@
 ---
-itle: "Go 理论 - 笔记"
+title: "Go 理论 - 笔记"
 date: 2021-05-20T00:00:00+08:00
 draft: false
 tags: ["go"]
